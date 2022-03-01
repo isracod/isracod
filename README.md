@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Israel Lopez</h1>
 <h3 align="center">A passionate frontend developer from Mexico</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=isracod&label=Profile%20views&color=0e75b6&style=flat" alt="isracod" /> </p>
-
 - 🔭 I’m currently working on **FEMSA as Intern**
 
 - 🌱 I’m currently learning **Front and Back End Development**
