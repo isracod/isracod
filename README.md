@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=isracod&label=Profile%20views&color=0e75b6&style=flat" alt="isracod" /> </p>
 
-- 🔭 I’m currently working on [FEMSA](as Intern)
+- 🔭 I’m currently working on **FEMSA as Intern**
 
 - 🌱 I’m currently learning **Front and Back End Development**
 
