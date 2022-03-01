@@ -1,6 +1,9 @@
 <h1 align="center">Hi 👋, I'm Israel Lopez</h1>
 <h3 align="center">A passionate frontend developer from Mexico</h3>
 
+<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 60%" />
+<br>
+
 - 🔭 I’m currently working on **FEMSA as Intern**
 
 - 🌱 I’m currently learning **Front and Back End Development**
