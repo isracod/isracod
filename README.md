@@ -2,15 +2,10 @@
 <h3 align="center">A passionate frontend developer from Mexico</h3>
 
 
-- 🔭 I’m currently working on **FEMSA as Intern**
-
 - 🌱 I’m currently learning **Front and Back End Development**
 
 - 👨‍💻 All of my projects are available at [https://github.com/isracod](https://github.com/isracod)
 
-- 💬 Ask me about **HTML, CSS, JavaScript and Python**
-
-- 📫 How to reach me **isra.lpzrodriguez@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
